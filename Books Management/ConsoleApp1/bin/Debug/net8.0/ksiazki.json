@@ -1,0 +1,65 @@
+[
+  {
+    "Id": 1,
+    "Tytul": "W\u0142adca Pier\u015Bcieni: Dru\u017Cyna Pier\u015Bcienia",
+    "Autor": "J.R.R. Tolkien",
+    "RokWydania": 1954,
+    "Gatunek": "Fantasy"
+  },
+  {
+    "Id": 2,
+    "Tytul": "Harry Potter i Kamie\u0144 Filozoficzny",
+    "Autor": "J.K. Rowling",
+    "RokWydania": 1997,
+    "Gatunek": "Fantasy"
+  },
+  {
+    "Id": 3,
+    "Tytul": "Zbrodnia i Kara",
+    "Autor": "Fiodor Dostojewski",
+    "RokWydania": 1866,
+    "Gatunek": "Klasyczna literatura"
+  },
+  {
+    "Id": 4,
+    "Tytul": "1984",
+    "Autor": "George Orwell",
+    "RokWydania": 1949,
+    "Gatunek": "Dystopia"
+  },
+  {
+    "Id": 5,
+    "Tytul": "To",
+    "Autor": "Stephen King",
+    "RokWydania": 1986,
+    "Gatunek": "Horror"
+  },
+  {
+    "Id": 6,
+    "Tytul": "Wzg\u00F3rze ps\u00F3w",
+    "Autor": "Stephen King",
+    "RokWydania": 1977,
+    "Gatunek": "Horror"
+  },
+  {
+    "Id": 7,
+    "Tytul": "Mistrz i Ma\u0142gorzata",
+    "Autor": "Michai\u0142 Bu\u0142hakow",
+    "RokWydania": 1966,
+    "Gatunek": "Klasyczna literatura"
+  },
+  {
+    "Id": 8,
+    "Tytul": "Duma i uprzedzenie",
+    "Autor": "Jane Austen",
+    "RokWydania": 1813,
+    "Gatunek": "Romans"
+  },
+  {
+    "Id": 12,
+    "Tytul": "Programowannie",
+    "Autor": "Programista",
+    "RokWydania": 2024,
+    "Gatunek": "IT"
+  }
+]
