@@ -1,0 +1,183 @@
+[
+    {
+      "Id": 1,
+      "Nazwa": "Smartfon",
+      "Producent": "Samsung",
+      "Cena": 49.99,
+      "Kategoria": "Elektronika",
+      "Ilość": 100,
+      "DataDostawy": "2024-04-02T08:00:00"
+    },
+    {
+      "Id": 2,
+      "Nazwa": "Książka",
+      "Producent": "Penguin Random House",
+      "Cena": 29.99,
+      "Kategoria": "Książki",
+      "Ilość": 50,
+      "DataDostawy": "2024-04-02T10:00:00"
+    },
+    {
+      "Id": 3,
+      "Nazwa": "T-shirt",
+      "Producent": "Nike",
+      "Cena": 19.99,
+      "Kategoria": "Ubrania",
+      "Ilość": 200,
+      "DataDostawy": "2024-04-03T09:00:00"
+    },
+    {
+      "Id": 4,
+      "Nazwa": "Mleko",
+      "Producent": "Łaciate",
+      "Cena": 9.99,
+      "Kategoria": "Artykuły spożywcze",
+      "Ilość": 300,
+      "DataDostawy": "2024-04-03T12:00:00"
+    },
+    {
+      "Id": 5,
+      "Nazwa": "Laptop",
+      "Producent": "HP",
+      "Cena": 39.99,
+      "Kategoria": "Elektronika",
+      "Ilość": 80,
+      "DataDostawy": "2024-04-04T10:00:00"
+    },
+    {
+      "Id": 6,
+      "Nazwa": "Jeansy",
+      "Producent": "Levi's",
+      "Cena": 14.99,
+      "Kategoria": "Ubrania",
+      "Ilość": 150,
+      "DataDostawy": "2024-04-04T11:00:00"
+    },
+    {
+      "Id": 7,
+      "Nazwa": "Chleb",
+      "Producent": "Cukiernia XYZ",
+      "Cena": 5.99,
+      "Kategoria": "Artykuły spożywcze",
+      "Ilość": 400,
+      "DataDostawy": "2024-04-05T08:00:00"
+    },
+    {
+      "Id": 8,
+      "Nazwa": "Smartwatch",
+      "Producent": "Apple",
+      "Cena": 69.99,
+      "Kategoria": "Elektronika",
+      "Ilość": 70,
+      "DataDostawy": "2024-04-05T09:00:00"
+    },
+    {
+      "Id": 9,
+      "Nazwa": "Książka",
+      "Producent": "HarperCollins",
+      "Cena": 24.99,
+      "Kategoria": "Książki",
+      "Ilość": 60,
+      "DataDostawy": "2024-04-06T10:00:00"
+    },
+    {
+      "Id": 10,
+      "Nazwa": "Koszula",
+      "Producent": "Ralph Lauren",
+      "Cena": 29.99,
+      "Kategoria": "Ubrania",
+      "Ilość": 120,
+      "DataDostawy": "2024-04-06T12:00:00"
+    },
+    {
+      "Id": 11,
+      "Nazwa": "Jabłka",
+      "Producent": "Sad Owocki",
+      "Cena": 4.99,
+      "Kategoria": "Artykuły spożywcze",
+      "Ilość": 500,
+      "DataDostawy": "2024-04-07T08:00:00"
+    },
+    {
+      "Id": 12,
+      "Nazwa": "Tablet",
+      "Producent": "Microsoft",
+      "Cena": 89.99,
+      "Kategoria": "Elektronika",
+      "Ilość": 90,
+      "DataDostawy": "2024-04-07T09:00:00"
+    },
+    {
+      "Id": 13,
+      "Nazwa": "Książka",
+      "Producent": "Hachette Livre",
+      "Cena": 19.99,
+      "Kategoria": "Książki",
+      "Ilość": 40,
+      "DataDostawy": "2024-04-08T10:00:00"
+    },
+    {
+      "Id": 14,
+      "Nazwa": "Sukienka",
+      "Producent": "Zara",
+      "Cena": 34.99,
+      "Kategoria": "Ubrania",
+      "Ilość": 100,
+      "DataDostawy": "2024-04-08T11:00:00"
+    },
+    {
+      "Id": 15,
+      "Nazwa": "Mleko",
+      "Producent": "Mleczarnia XYZ",
+      "Cena": 3.99,
+      "Kategoria": "Artykuły spożywcze",
+      "Ilość": 600,
+      "DataDostawy": "2024-04-09T08:00:00"
+    },
+    {
+      "Id": 16,
+      "Nazwa": "Aparat fotograficzny",
+      "Producent": "Canon",
+      "Cena": 109.99,
+      "Kategoria": "Elektronika",
+      "Ilość": 60,
+      "DataDostawy": "2024-04-09T09:00:00"
+    },
+    {
+      "Id": 17,
+      "Nazwa": "Książka",
+      "Producent": "Simon & Schuster",
+      "Cena": 14.99,
+      "Kategoria": "Książki",
+      "Ilość": 30,
+      "DataDostawy": "2024-04-10T10:00:00"
+    },
+    {
+      "Id": 18,
+      "Nazwa": "Kurtka",
+      "Producent": "The North Face",
+      "Cena": 44.99,
+      "Kategoria": "Ubrania",
+      "Ilość": 80,
+      "DataDostawy": "2024-04-10T12:00:00"
+    },
+    {
+      "Id": 19,
+      "Nazwa": "Jogurt",
+      "Producent": "Mlekowita",
+      "Cena": 2.99,
+      "Kategoria": "Artykuły spożywcze",
+      "Ilość": 700,
+      "DataDostawy": "2024-04-11T08:00:00"
+    },
+    {
+      "Id": 20,
+      "Nazwa": "Telewizor",
+      "Producent": "LG",
+      "Cena": 599.99,
+      "Kategoria": "Elektronika",
+      "Ilość": 40,
+      "DataDostawy": "2024-04-11T09:00:00"
+    }
+  ]
+  

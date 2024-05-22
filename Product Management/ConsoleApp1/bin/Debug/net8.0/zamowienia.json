@@ -1,0 +1,24 @@
+[
+  {
+    "ListaProduktow": [
+      {
+        "Item1": {
+          "Id": 4,
+          "Nazwa": "Mleko",
+          "Producent": "\u0141aciate",
+          "Cena": 9.99,
+          "Kategoria": "Artyku\u0142y spo\u017Cywcze",
+          "Ilosc": 0,
+          "DataDostawy": "2024-04-03T12:00:00"
+        },
+        "Item2": 2
+      }
+    ],
+    "Imie": "1",
+    "Nazwisko": "2",
+    "Adres": "3",
+    "SposobDostawy": 0,
+    "SposobPlatnosci": 0,
+    "KwotaCalkowita": 21.98
+  }
+]
